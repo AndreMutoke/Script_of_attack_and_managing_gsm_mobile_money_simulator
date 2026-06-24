@@ -1,0 +1,46 @@
+
+[2026-06-24 09:42:07] [SÉCURITÉ] ECHEC: Code PIN incorrect pour 243970000002. Essais restants: 2
+[2026-06-24 09:42:38] [SOLDE] SUCCES: Consultation effectuée par KABILA KABANGE (243970000002).
+[2026-06-24 09:43:59] [IA] Évaluation du risque de la transaction (5000.0 USD) : Élevé
+[2026-06-24 09:43:59] [TRANS] ECHEC: Solde insuffisant pour 243970000002.
+[2026-06-24 09:45:52] [SÉCURITÉ] ECHEC: Code PIN incorrect pour 243970000002 (Tentative transfert). Essais restants: 2
+[2026-06-24 09:47:42] [SÉCURITÉ] ECHEC: Code PIN incorrect pour 243970000002. Essais restants: 1
+[2026-06-24 09:48:41] [SÉCURITÉ] ECHEC: Code PIN incorrect pour 243970000002. Essais restants: 0
+[2026-06-24 09:49:29] [SÉCURITÉ] Rejet: Le compte 243970000002 est COMPTE_BLOQUE (Brute force détecté).
+[2026-06-24 09:51:15] [KYC] ECHEC: Informations KYC incorrectes pour 243970000002.
+[2026-06-24 09:51:56] [SÉCURITÉ] Rejet: Le compte 243970000002 est COMPTE_BLOQUE (Brute force détecté).
+[2026-06-24 09:52:41] [KYC] SUCCES: Identité confirmée pour 243970000002. Compte débloqué.
+[2026-06-24 09:53:46] [IA] Évaluation du risque de la transaction (15.0 USD) : Léger
+[2026-06-24 09:53:46] TRANSACTION VALIDEE - Risque: Léger | De: KABILA KABANGE -> Vers: Mbuyi Ngoy | Montant : 15.00 USD
+==========================================================
+
+[2026-06-24 10:02:31] Début de réception transaction :
+==========================================================
+Action Clavier : APPEL_USSD
+Option Menu    : *501#
+Num. Recole    : Aucun
+Montant        : 0
+==========================================================
+[2026-06-24 10:03:30] [SOLDE] SUCCES: Consultation effectuée par KABILA KABANGE (243970000002).
+[2026-06-24 10:55:42] [SOLDE] SUCCES: Consultation effectuée par KABILA KABANGE (243970000002).
+[2026-06-24 13:23:13] [SÉCURITÉ] ECHEC: Code PIN incorrect pour 243970000001. Essais restants: 2
+[2026-06-24 13:23:48] [SOLDE] SUCCES: Consultation effectuée par MUTOMBO NGOY (243970000001).
+[2026-06-24 13:29:50] [SÉCURITÉ] ECHEC: Code PIN incorrect pour 243970000001. Essais restants: 2
+[2026-06-24 13:29:51] [SÉCURITÉ] ECHEC: Code PIN incorrect pour 243970000001. Essais restants: 1
+[2026-06-24 13:29:52] [SÉCURITÉ] ECHEC: Code PIN incorrect pour 243970000001. Essais restants: 0
+[2026-06-24 13:29:53] [SÉCURITÉ] Rejet: Le compte 243970000001 est COMPTE_BLOQUE (Brute force détecté).
+[2026-06-24 13:29:53] [IA] Évaluation du risque de la transaction (600.0 USD) : Élevé
+[2026-06-24 13:29:53] [TRANS] ECHEC: Solde insuffisant pour 243970000001.
+[2026-06-24 13:45:44] [SOLDE] SUCCES: Consultation effectuée par MUTOMBO NGOY (243970000001).
+[2026-06-24 13:47:24] [SÉCURITÉ] ECHEC: Code PIN incorrect pour 243970000001. Essais restants: 2
+[2026-06-24 13:47:25] [SÉCURITÉ] ECHEC: Code PIN incorrect pour 243970000001. Essais restants: 1
+[2026-06-24 13:47:26] [SÉCURITÉ] ECHEC: Code PIN incorrect pour 243970000001. Essais restants: 0
+[2026-06-24 13:47:27] [SÉCURITÉ] Rejet: Le compte 243970000001 est COMPTE_BLOQUE (Brute force détecté).
+[2026-06-24 13:47:27] [IA] Évaluation du risque de la transaction (600.0 USD) : Élevé
+[2026-06-24 13:47:27] [TRANS] ECHEC: Solde insuffisant pour 243970000001.
+[2026-06-24 13:49:45] [SOLDE] SUCCES: Consultation effectuée par MUTOMBO NGOY (243970000001).
+[2026-06-24 13:54:03] [SÉCURITÉ] ECHEC: Code PIN incorrect pour 243970000001. Essais restants: 2
+[2026-06-24 13:54:41] [SÉCURITÉ] ECHEC: Code PIN incorrect pour 243970000001. Essais restants: 1
+[2026-06-24 13:55:09] [SÉCURITÉ] ECHEC: Code PIN incorrect pour 243970000001. Essais restants: 0
+[2026-06-24 13:55:29] [SÉCURITÉ] Rejet: Le compte 243970000001 est COMPTE_BLOQUE (Brute force détecté).
+[2026-06-24 13:56:44] [KYC] ECHEC: Informations KYC incorrectes pour 243970000001.
